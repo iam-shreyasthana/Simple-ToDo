@@ -1,3 +1,7 @@
+## Simple TODO App using React.js
+
+### Learnt from Hitesh Choudhary - Learn Code Online : React.js Crash Course
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
